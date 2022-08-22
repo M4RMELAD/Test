@@ -1,0 +1,25 @@
+
+h1{
+    color: red; 
+    
+}
+b{
+    color: red;
+}
+h2{
+    color: green;
+}
+.CSS{
+    color: blue;
+       font-weight: bold;
+}
+ul{
+    color: rgb(172, 70, 70);
+    font-style: italic;
+}
+ol{
+    color: red;
+}
+.spas{
+    word-spacing: 20px;
+}
